@@ -3,4 +3,4 @@ Eun-Seong Kim<sup>\*</sup> , Min-Yeong Kim<sup>\*</sup>, Yejun So, and Keunsoo K
 
 
 <h3> Comparative Comparisions </h3>
-![CodeFormer](comparison/CodeFormer.png)
+<img src="comparison/CodeFormer.png" alt="Comparison result" width="500">
