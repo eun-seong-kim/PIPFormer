@@ -1,5 +1,5 @@
 # Progressive Identity-Preserving Transformer for Reference-based Blind Face Restoration
-Eun-Seong Kim<sup>\*</sup> , Min-Yeong Kim<sup>\*</sup>, Yejun So, and Keunsoo Ko<sup>&dagger;</sup>
+[Eun-Seong Kim<sup>\*</sup>](https://github.com/eun-seong-kim) , [Min-Yeong Kim<sup>\*</sup>](https://github.com/myeong-kim), [Yejun So](https://github.com/YejunSo), and [Keunsoo Ko<sup>&dagger;</sup>](https://github.com/keunsoo-ko)
 
 
 <h3> Comparative Comparisions </h3>
