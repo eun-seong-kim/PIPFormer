@@ -5,7 +5,7 @@ import math
 import numpy as np
 import blobfile as bf
 from torch.utils.data import Dataset
-from degradation import (random_mixed_kernels,
+from .degradation import (random_mixed_kernels,
                          bivariate_Gaussian,
                          random_add_gaussian_noise,
                          random_add_jpg_compression,
